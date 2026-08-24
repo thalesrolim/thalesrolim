@@ -1,16 +1,18 @@
-## Hi there 👋
+# Thales Rolim
 
-<!--
-**thalesrolim/thalesrolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Backend · Gestão e Análise de Dados**
 
-Here are some ideas to get you started:
+Backend developer com atuação sólida em Python e Java, unindo desenvolvimento de software a práticas de gestão e análise de dados para transformar informação em decisões de negócio. Foco em construir sistemas confiáveis, escaláveis e orientados a dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**LinkedIn:** [linkedin.com/in/thalesrolim](https://www.linkedin.com/in/thalesrolim/)
+**E-mail:** [thalesrdsantos@hotmail.com](mailto:thalesrdsantos@hotmail.com)
+
+---
+
+## Stack principal
+
+**Backend:** Python · Java · Node.js · FastAPI · Django · Spring Boot · REST APIs
+
+**Dados:** SQL · PostgreSQL · MySQL · Pandas · Power BI · Apache Airflow
+
+**Infraestrutura & Ferramentas:** Docker · Git · GitHub · AWS · Linux · CI/CD
