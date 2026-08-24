@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Thales Rolim — Backend & Data Engineering" width="100%" />
+  <img src="assets/banner.png" alt="Thales Rolim — Backend & Data Engineering" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Every system I build starts with the same question: how do we turn raw data into
 I work on the backend side of that pipeline — designing APIs, modeling data, and building the infrastructure that lets teams manage and analyze information without second-guessing it.
 
 <p align="center">
-  <img src="assets/roadmap.svg" alt="Data to System to Decision" width="100%" />
+  <img src="assets/roadmap.png" alt="Data to System to Decision" width="100%" />
 </p>
 
 ## About
