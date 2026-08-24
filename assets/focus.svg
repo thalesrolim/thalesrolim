@@ -1,28 +1,25 @@
-<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="290" height="340" viewBox="0 0 290 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGradD" x1="0" y1="0" x2="900" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bgGradD" x1="0" y1="0" x2="290" y2="340" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0b0e14"/>
       <stop offset="1" stop-color="#10141c"/>
     </linearGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="898.5" height="318.5" rx="14" fill="url(#bgGradD)" stroke="#30363d" stroke-width="1.5"/>
-  <text x="50" y="46" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="3" fill="#22c55e">FOCUS DISTRIBUTION</text>
-  <text x="50" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">How I split my time across the stack.</text>
-  <circle cx="200" cy="198" r="82" fill="none" stroke="#242b36" stroke-width="30"/>
-  <circle cx="200" cy="198" r="82" fill="none" stroke="#4ade80" stroke-width="30" stroke-dasharray="231.85 283.37" stroke-dashoffset="0.00" transform="rotate(-90 200 198)"/>
-  <circle cx="200" cy="198" r="82" fill="none" stroke="#22c55e" stroke-width="30" stroke-dasharray="180.33 334.89" stroke-dashoffset="-231.85" transform="rotate(-90 200 198)"/>
-  <circle cx="200" cy="198" r="82" fill="none" stroke="#16a34a" stroke-width="30" stroke-dasharray="103.04 412.18" stroke-dashoffset="-412.18" transform="rotate(-90 200 198)"/>
-  <text x="200" y="206" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#e6edf3">Focus</text>
+  <rect x="0.75" y="0.75" width="288.5" height="338.5" rx="14" fill="url(#bgGradD)" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="145.0" cy="95" r="55" fill="none" stroke="#242b36" stroke-width="20"/>
+  <circle cx="145.0" cy="95" r="55" fill="none" stroke="#4ade80" stroke-width="20" stroke-linecap="butt" stroke-dasharray="148.76 196.82" stroke-dashoffset="0.00" transform="rotate(-90 145.0 95)"/>
+  <circle cx="145.0" cy="95" r="55" fill="none" stroke="#0d9488" stroke-width="20" stroke-linecap="butt" stroke-dasharray="115.70 229.87" stroke-dashoffset="-153.76" transform="rotate(-90 145.0 95)"/>
+  <circle cx="145.0" cy="95" r="55" fill="none" stroke="#166534" stroke-width="20" stroke-linecap="butt" stroke-dasharray="66.12 279.46" stroke-dashoffset="-274.46" transform="rotate(-90 145.0 95)"/>
 
-  <rect x="480" y="114" width="16" height="16" rx="4" fill="#4ade80"/>
-  <text x="506" y="127" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">Backend Development</text>
-  <text x="866" y="127" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#4ade80">45%</text>
+  <rect x="22" y="173" width="12" height="12" rx="3" fill="#4ade80"/>
+  <text x="40" y="184" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#e6edf3">Backend Development</text>
+  <text x="268" y="184" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#22c55e">45%</text>
 
-  <rect x="480" y="160" width="16" height="16" rx="4" fill="#22c55e"/>
-  <text x="506" y="173" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">Data &amp; Analytics</text>
-  <text x="866" y="173" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#22c55e">35%</text>
+  <rect x="22" y="217" width="12" height="12" rx="3" fill="#0d9488"/>
+  <text x="40" y="228" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#e6edf3">Data &amp; Analytics</text>
+  <text x="268" y="228" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#22c55e">35%</text>
 
-  <rect x="480" y="206" width="16" height="16" rx="4" fill="#16a34a"/>
-  <text x="506" y="219" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3">Infrastructure &amp; DevOps</text>
-  <text x="866" y="219" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#16a34a">20%</text>
+  <rect x="22" y="261" width="12" height="12" rx="3" fill="#166534"/>
+  <text x="40" y="272" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#e6edf3">Infrastructure &amp; DevOps</text>
+  <text x="268" y="272" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#22c55e">20%</text>
 </svg>
