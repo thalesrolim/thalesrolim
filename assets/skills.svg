@@ -1,0 +1,47 @@
+<svg width="900" height="488" viewBox="0 0 900 488" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0" y1="0" x2="900" y2="488" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0e14"/>
+      <stop offset="1" stop-color="#10141c"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16a34a"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="898.5" height="486.5" rx="14" fill="url(#bgGrad3)" stroke="#30363d" stroke-width="1.5"/>
+
+  <text x="50" y="46" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="3" fill="#22c55e">STRENGTHS</text>
+  <text x="50" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Self-assessed proficiency across my core stack.</text>
+
+  <text x="50" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">Python</text>
+  <text x="850" y="92" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#22c55e">90%</text>
+  <rect x="50" y="106" width="800" height="7" rx="3.5" fill="#1c212b"/>
+  <rect x="50" y="106" width="720.0" height="7" rx="3.5" fill="url(#barGrad)"/>
+
+  <text x="50" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">Backend &amp; APIs</text>
+  <text x="850" y="154" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#22c55e">85%</text>
+  <rect x="50" y="168" width="800" height="7" rx="3.5" fill="#1c212b"/>
+  <rect x="50" y="168" width="680.0" height="7" rx="3.5" fill="url(#barGrad)"/>
+
+  <text x="50" y="216" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">SQL &amp; Data Modeling</text>
+  <text x="850" y="216" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#22c55e">80%</text>
+  <rect x="50" y="230" width="800" height="7" rx="3.5" fill="#1c212b"/>
+  <rect x="50" y="230" width="640.0" height="7" rx="3.5" fill="url(#barGrad)"/>
+
+  <text x="50" y="278" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">Java</text>
+  <text x="850" y="278" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#22c55e">75%</text>
+  <rect x="50" y="292" width="800" height="7" rx="3.5" fill="#1c212b"/>
+  <rect x="50" y="292" width="600.0" height="7" rx="3.5" fill="url(#barGrad)"/>
+
+  <text x="50" y="340" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">Data Analysis &amp; BI</text>
+  <text x="850" y="340" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#22c55e">70%</text>
+  <rect x="50" y="354" width="800" height="7" rx="3.5" fill="#1c212b"/>
+  <rect x="50" y="354" width="560.0" height="7" rx="3.5" fill="url(#barGrad)"/>
+
+  <text x="50" y="402" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3">Docker &amp; Cloud (AWS)</text>
+  <text x="850" y="402" text-anchor="end" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#22c55e">65%</text>
+  <rect x="50" y="416" width="800" height="7" rx="3.5" fill="#1c212b"/>
+  <rect x="50" y="416" width="520.0" height="7" rx="3.5" fill="url(#barGrad)"/>
+</svg>
