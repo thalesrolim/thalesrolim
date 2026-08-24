@@ -1,6 +1,6 @@
-<svg width="900" height="350" viewBox="0 0 900 350" xmlns="http://www.w3.org/2000/svg">
+<svg width="290" height="340" viewBox="0 0 290 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGradR" x1="0" y1="0" x2="900" y2="350" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bgGradR" x1="0" y1="0" x2="290" y2="340" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0b0e14"/>
       <stop offset="1" stop-color="#10141c"/>
     </linearGradient>
@@ -9,30 +9,30 @@
       <stop offset="1" stop-color="#4ade80" stop-opacity="0.08"/>
     </radialGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="898.5" height="348.5" rx="14" fill="url(#bgGradR)" stroke="#30363d" stroke-width="1.5"/>
-  <text x="50" y="46" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="3" fill="#22c55e">TECHNICAL COMPETENCIES</text>
-  <text x="50" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Self-assessed, on a 0-100 scale.</text>
-  <polygon points="450.0,147.0 474.2,161.0 474.2,189.0 450.0,203.0 425.8,189.0 425.8,161.0" fill="none" stroke="#242b36" stroke-width="1"/>
-  <polygon points="450.0,119.0 498.5,147.0 498.5,203.0 450.0,231.0 401.5,203.0 401.5,147.0" fill="none" stroke="#242b36" stroke-width="1"/>
-  <polygon points="450.0,91.0 522.7,133.0 522.7,217.0 450.0,259.0 377.3,217.0 377.3,133.0" fill="none" stroke="#242b36" stroke-width="1"/>
-  <polygon points="450.0,63.0 547.0,119.0 547.0,231.0 450.0,287.0 353.0,231.0 353.0,119.0" fill="none" stroke="#242b36" stroke-width="1"/>
-  <line x1="450" y1="175" x2="450.0" y2="63.0" stroke="#242b36" stroke-width="1"/>
-  <line x1="450" y1="175" x2="547.0" y2="119.0" stroke="#242b36" stroke-width="1"/>
-  <line x1="450" y1="175" x2="547.0" y2="231.0" stroke="#242b36" stroke-width="1"/>
-  <line x1="450" y1="175" x2="450.0" y2="287.0" stroke="#242b36" stroke-width="1"/>
-  <line x1="450" y1="175" x2="353.0" y2="231.0" stroke="#242b36" stroke-width="1"/>
-  <line x1="450" y1="175" x2="353.0" y2="119.0" stroke="#242b36" stroke-width="1"/>
-  <polygon points="450.0,91.0 537.3,124.6 527.6,219.8 450.0,247.8 382.1,214.2 367.6,127.4" fill="url(#radarFill)" stroke="#4ade80" stroke-width="2"/>
-  <circle cx="450.0" cy="91.0" r="3.5" fill="#4ade80"/>
-  <circle cx="537.3" cy="124.6" r="3.5" fill="#4ade80"/>
-  <circle cx="527.6" cy="219.8" r="3.5" fill="#4ade80"/>
-  <circle cx="450.0" cy="247.8" r="3.5" fill="#4ade80"/>
-  <circle cx="382.1" cy="214.2" r="3.5" fill="#4ade80"/>
-  <circle cx="367.6" cy="127.4" r="3.5" fill="#4ade80"/>
-  <text x="450.0" y="38.4" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">System Design</text>
-  <text x="568.3" y="106.7" text-anchor="start" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">APIs &amp; Backend</text>
-  <text x="568.3" y="243.3" text-anchor="start" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Data Modeling</text>
-  <text x="450.0" y="311.6" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Cloud &amp; DevOps</text>
-  <text x="331.7" y="243.3" text-anchor="end" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Testing &amp; Quality</text>
-  <text x="331.7" y="106.7" text-anchor="end" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Databases</text>
+  <rect x="0.75" y="0.75" width="288.5" height="338.5" rx="14" fill="url(#bgGradR)" stroke="#30363d" stroke-width="1.5"/>
+  <polygon points="145.0,139.5 162.7,149.8 162.7,170.2 145.0,180.5 127.3,170.2 127.3,149.8" fill="none" stroke="#242b36" stroke-width="1"/>
+  <polygon points="145.0,119.1 180.4,139.5 180.4,180.5 145.0,200.9 109.6,180.5 109.6,139.5" fill="none" stroke="#242b36" stroke-width="1"/>
+  <polygon points="145.0,98.0 198.7,129.0 198.7,191.0 145.0,222.0 91.3,191.0 91.3,129.0" fill="none" stroke="#242b36" stroke-width="1"/>
+
+  <line x1="145.0" y1="160" x2="145.0" y2="98.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="145.0" y1="160" x2="198.7" y2="129.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="145.0" y1="160" x2="198.7" y2="191.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="145.0" y1="160" x2="145.0" y2="222.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="145.0" y1="160" x2="91.3" y2="191.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="145.0" y1="160" x2="91.3" y2="129.0" stroke="#242b36" stroke-width="1"/>
+
+  <polygon points="145.0,113.5 193.3,132.1 188.0,184.8 145.0,200.3 107.4,181.7 99.4,133.7" fill="url(#radarFill)" stroke="#4ade80" stroke-width="2"/>
+  <circle cx="145.0" cy="113.5" r="2.8" fill="#4ade80"/>
+  <circle cx="193.3" cy="132.1" r="2.8" fill="#4ade80"/>
+  <circle cx="188.0" cy="184.8" r="2.8" fill="#4ade80"/>
+  <circle cx="145.0" cy="200.3" r="2.8" fill="#4ade80"/>
+  <circle cx="107.4" cy="181.7" r="2.8" fill="#4ade80"/>
+  <circle cx="99.4" cy="133.7" r="2.8" fill="#4ade80"/>
+
+  <text x="145.0" y="82.0" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">System Design</text>
+  <text x="212.5" y="121.0" text-anchor="start" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">APIs</text>
+  <text x="212.5" y="199.0" text-anchor="start" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">Data Model</text>
+  <text x="145.0" y="238.0" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">Cloud &amp; DevOps</text>
+  <text x="77.5" y="199.0" text-anchor="end" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">Testing</text>
+  <text x="77.5" y="121.0" text-anchor="end" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#8b949e">Databases</text>
 </svg>
