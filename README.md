@@ -1,5 +1,5 @@
 <p align="center">
- <img width="900" height="260" alt="banner" src="https://github.com/user-attachments/assets/65ff60c3-dc82-44f2-b1f1-17cc07fff56c" />
+  <img src="assets/banner.svg" alt="Thales Rolim — Backend & Data Engineering" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Every system I build starts with the same question: how do we turn raw data into
 I work on the backend side of that pipeline — designing APIs, modeling data, and building the infrastructure that lets teams manage and analyze information without second-guessing it.
 
 <p align="center">
-<img width="900" height="260" alt="assets" src="https://github.com/user-attachments/assets/3c7c4923-821d-4f47-b1f3-4a719f5ce618" />
+  <img src="assets/roadmap.svg" alt="Data to System to Decision" width="100%" />
 </p>
 
 ## About
@@ -31,12 +31,22 @@ Currently building projects end-to-end — from data modeling to API design — 
 
 **Infrastructure & Tools:** Docker &#183; Git &#183; GitHub &#183; AWS &#183; Linux &#183; CI/CD
 
+<p align="center">
+  <img src="assets/skills.svg" alt="Strengths" width="32%" />
+  <img src="assets/focus.svg" alt="Focus distribution" width="32%" />
+  <img src="assets/radar.svg" alt="Technical competencies" width="32%" />
+</p>
+
 ## Projects
 
 Pinned projects are on their way — this section will showcase backend and data projects as they go live.
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/thalesrolim](https://www.linkedin.com/in/thalesrolim/)
-
-**Email:** [thalesrdsantos@hotmail.com](mailto:thalesrdsantos@hotmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/thalesrolim/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" height="54"/></a>
+  &nbsp;
+  <a href="https://wa.me/5584981602341"><img src="assets/contact-whatsapp.svg" alt="WhatsApp" height="54"/></a>
+  &nbsp;
+  <a href="mailto:thalesrdsantos@hotmail.com"><img src="assets/contact-outlook.svg" alt="Outlook" height="54"/></a>
+</p>
