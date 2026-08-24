@@ -14,7 +14,7 @@ Every system I build starts with the same question: how do we turn raw data into
 I work on the backend side of that pipeline — designing APIs, modeling data, and building the infrastructure that lets teams manage and analyze information without second-guessing it.
 
 <p align="center">
-<img width="900" height="260" alt="assets" src="https://github.com/user-attachments/assets/5aaaed6d-eba5-4ea0-b33d-a28c4916ed30" />
+<img width="900" height="260" alt="assets" src="https://github.com/user-attachments/assets/6890844f-0afe-413e-9484-d36f3728115b" />
 </p>
 
 ## About
