@@ -1,5 +1,5 @@
 <p align="center">
-<img width="900" height="260" alt="banner" src="https://github.com/user-attachments/assets/ebf312c6-85ea-42e9-85e2-468831938749" />
+<img width="900" height="260" alt="Banner" src="https://github.com/user-attachments/assets/20ee2063-1f60-475a-8be2-decfc53c2e87" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Every system I build starts with the same question: how do we turn raw data into
 I work on the backend side of that pipeline — designing APIs, modeling data, and building the infrastructure that lets teams manage and analyze information without second-guessing it.
 
 <p align="center">
-<img width="900" height="260" alt="CONTEÚDO" src="https://github.com/user-attachments/assets/198ef48e-e570-432c-9b13-d904b0e1c6d4" />
+<img width="900" height="260" alt="CONTEÚDO" src="https://github.com/user-attachments/assets/dbe2033d-ce61-47c2-a318-5b707f59ceff" />
 </p>
 
 ## About
