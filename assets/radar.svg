@@ -1,0 +1,38 @@
+<svg width="900" height="350" viewBox="0 0 900 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradR" x1="0" y1="0" x2="900" y2="350" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0e14"/>
+      <stop offset="1" stop-color="#10141c"/>
+    </linearGradient>
+    <radialGradient id="radarFill" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0.08"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="898.5" height="348.5" rx="14" fill="url(#bgGradR)" stroke="#30363d" stroke-width="1.5"/>
+  <text x="50" y="46" font-family="'Courier New', Consolas, monospace" font-size="13" letter-spacing="3" fill="#22c55e">TECHNICAL COMPETENCIES</text>
+  <text x="50" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Self-assessed, on a 0-100 scale.</text>
+  <polygon points="450.0,147.0 474.2,161.0 474.2,189.0 450.0,203.0 425.8,189.0 425.8,161.0" fill="none" stroke="#242b36" stroke-width="1"/>
+  <polygon points="450.0,119.0 498.5,147.0 498.5,203.0 450.0,231.0 401.5,203.0 401.5,147.0" fill="none" stroke="#242b36" stroke-width="1"/>
+  <polygon points="450.0,91.0 522.7,133.0 522.7,217.0 450.0,259.0 377.3,217.0 377.3,133.0" fill="none" stroke="#242b36" stroke-width="1"/>
+  <polygon points="450.0,63.0 547.0,119.0 547.0,231.0 450.0,287.0 353.0,231.0 353.0,119.0" fill="none" stroke="#242b36" stroke-width="1"/>
+  <line x1="450" y1="175" x2="450.0" y2="63.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="450" y1="175" x2="547.0" y2="119.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="450" y1="175" x2="547.0" y2="231.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="450" y1="175" x2="450.0" y2="287.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="450" y1="175" x2="353.0" y2="231.0" stroke="#242b36" stroke-width="1"/>
+  <line x1="450" y1="175" x2="353.0" y2="119.0" stroke="#242b36" stroke-width="1"/>
+  <polygon points="450.0,91.0 537.3,124.6 527.6,219.8 450.0,247.8 382.1,214.2 367.6,127.4" fill="url(#radarFill)" stroke="#4ade80" stroke-width="2"/>
+  <circle cx="450.0" cy="91.0" r="3.5" fill="#4ade80"/>
+  <circle cx="537.3" cy="124.6" r="3.5" fill="#4ade80"/>
+  <circle cx="527.6" cy="219.8" r="3.5" fill="#4ade80"/>
+  <circle cx="450.0" cy="247.8" r="3.5" fill="#4ade80"/>
+  <circle cx="382.1" cy="214.2" r="3.5" fill="#4ade80"/>
+  <circle cx="367.6" cy="127.4" r="3.5" fill="#4ade80"/>
+  <text x="450.0" y="38.4" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">System Design</text>
+  <text x="568.3" y="106.7" text-anchor="start" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">APIs &amp; Backend</text>
+  <text x="568.3" y="243.3" text-anchor="start" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Data Modeling</text>
+  <text x="450.0" y="311.6" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Cloud &amp; DevOps</text>
+  <text x="331.7" y="243.3" text-anchor="end" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Testing &amp; Quality</text>
+  <text x="331.7" y="106.7" text-anchor="end" dominant-baseline="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Databases</text>
+</svg>
