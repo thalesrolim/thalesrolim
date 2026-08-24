@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Thales Rolim — Backend & Data Engineering" width="100%" />
+<img width="900" height="260" alt="banner" src="https://github.com/user-attachments/assets/ebf312c6-85ea-42e9-85e2-468831938749" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Every system I build starts with the same question: how do we turn raw data into
 I work on the backend side of that pipeline — designing APIs, modeling data, and building the infrastructure that lets teams manage and analyze information without second-guessing it.
 
 <p align="center">
-  <img src="assets/roadmap.png" alt="Data to System to Decision" width="100%" />
+<img width="900" height="260" alt="assets" src="https://github.com/user-attachments/assets/5aaaed6d-eba5-4ea0-b33d-a28c4916ed30" />
 </p>
 
 ## About
