@@ -1,0 +1,8 @@
+<svg width="180" height="54" viewBox="0 0 180 54" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="178" height="52" rx="26" fill="#10141c" stroke="#4ade80" stroke-width="1.5"/>
+  <g transform="translate(20,15)">
+    <rect x="0" y="3" width="24" height="17" rx="2.5" fill="none" stroke="#4ade80" stroke-width="1.6"/>
+    <path d="M1 5 L12 13 L23 5" fill="none" stroke="#4ade80" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="58" y="33" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Outlook</text>
+</svg>
